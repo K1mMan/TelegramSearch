@@ -13,7 +13,7 @@ count the number of images, videos, and also extract the publication date of the
 ## Instaling
 ```python
 #Cloning a repository
-git clone https://github.com/fantomikc/emilia
+git clone https://github.com/K1mMan/TelegramSearch
 pip install -r requirements.txt
 
 python3 main.py
