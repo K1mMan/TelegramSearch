@@ -1,6 +1,6 @@
 # TelegramSearch GUI ![PyPI](https://img.shields.io/pypi/pyversions/requests)
 This program provides a convenient tool for searching articles \
-in Telegraph by their name with a convenient sorting system. \
+in Telegraph by their name with a convenient sorting system. 
 
 The utility can pull out all email addresses from the article, \
 count the number of images, videos, and also extract the publication date of the article.
