@@ -20,3 +20,4 @@ python3 main.py
 ```
 ## Preview
 ![alt text](https://github.com/K1mMan/sys/blob/main/preview_one.png)
+![alt text](https://github.com/K1mMan/sys/blob/main/preview_two.png)
