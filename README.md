@@ -1,4 +1,4 @@
-# TelegramSearch GUI ![PyPI](https://img.shields.io/pypi/pyversions/requests)
+# TelegraphSearch GUI ![PyPI](https://img.shields.io/pypi/pyversions/requests)
 This program provides a convenient tool for searching articles \
 in Telegraph by their name with a convenient sorting system. 
 
