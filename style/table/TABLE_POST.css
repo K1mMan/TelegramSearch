@@ -1,0 +1,25 @@
+QTableView {
+    alternate-background-color: rgba(50, 90, 140, 70);
+    background: rgba(30, 30, 30, 200);
+    color: white;
+    selection-color:white;
+    selection-background-color: rgba(100, 100, 130, 255);
+    border-radius:0px;
+    padding:10px 10px;
+}
+QHeaderView::down-arrow {
+    padding-right: 10px;
+    image: url(res/icon/down_arrow);
+    width: 10px;
+    height: 10px;
+}
+QHeaderView::up-arrow {
+    padding-right: 10px;
+    image: url(res/icon/up_arrow);
+    width: 10px;
+    height: 10px;
+}
+QTableView::item {
+    border-right: 0px solid transparent;
+    border-left: 0px solid transparent;
+}

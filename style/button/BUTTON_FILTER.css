@@ -1,0 +1,12 @@
+QPushButton#disable {
+    background: rgb(33, 33, 33);
+    color: white;
+}
+
+QPushButton#enable {
+    background: rgb(42, 117, 65);
+}
+
+QPushButton#edit {
+    background: red;
+}
