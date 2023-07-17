@@ -19,4 +19,4 @@ pip install -r requirements.txt
 python3 main.py
 ```
 ## Preview
-![alt text](https://github.com/fantomikc/sys/blob/main/emilia/preview.png)
+![alt text](https://github.com/K1mMan/sys/blob/main/preview_one.png)
